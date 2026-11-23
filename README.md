@@ -14,21 +14,21 @@
 
 ---
 
-<h3 align="center">👋 Quem sou eu</h3>
+<h3 align="center">Quem sou eu</h3>
 
 <p align="center">
   Sou o <b>Renato Veras</b>, advogado (OAB/PE) em transição de carreira para a tecnologia<br>
   e estudante de Análise e Desenvolvimento de Sistemas no CESAR School, em Recife.
 </p>
 
-<h3 align="center">🎯 Foco atual</h3>
+<h3 align="center">Foco atual</h3>
 
 <p align="center">
   Desenvolvimento de software · IA aplicada à análise de dados<br>
   O Direito foi o ponto de partida e segue como diferencial, sobretudo em LGPD e regras de negócio.
 </p>
 
-<h3 align="center">🛠️ Estudando</h3>
+<h3 align="center">Estudando</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
