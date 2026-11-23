@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  Sou o <b>Renato Veras</b>, advogado (OAB/PE) em transição de carreira para a tecnologia<br>
-  e estudante de Análise e Desenvolvimento de Sistemas no CESAR School, em Recife.
+  Sou <b>Renato Veras</b>, advogado (OAB/PE) em transição de carreira para a tecnologia<br>
+  e estudante de Análise e Desenvolvimento de Sistemas no CESAR School, pelo Embarque Digital em Recife.
 </p>
 
 <h3 align="center">Foco atual</h3>
