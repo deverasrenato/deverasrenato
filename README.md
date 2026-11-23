@@ -17,7 +17,7 @@
 <h3 align="center">Quem sou eu</h3>
 
 <p align="center">
-  <img src="avatar.png" alt="Renato Veras" width="120" height="120">
+  <img src="avatar-cor.png" alt="Renato Veras" width="120" height="120">
 </p>
 
 <p align="center">
