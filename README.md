@@ -17,6 +17,10 @@
 <h3 align="center">Quem sou eu</h3>
 
 <p align="center">
+  <img src="avatar.png" alt="Renato Veras" width="120" height="120">
+</p>
+
+<p align="center">
   Sou o <b>Renato Veras</b>, advogado (OAB/PE) em transição de carreira para a tecnologia<br>
   e estudante de Análise e Desenvolvimento de Sistemas no CESAR School, em Recife.
 </p>
